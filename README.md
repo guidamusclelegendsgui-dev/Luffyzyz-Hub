@@ -1,2 +1,1 @@
-# Luffyzyz-Hub
-Um ótimo Hub de blox fruits
+https://github.com/guidamusclelegendsgui-dev/Luffyzyz-Hub
